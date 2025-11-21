@@ -1,0 +1,15 @@
+# Foundry files
+out/
+cache/
+broadcast/
+lib/
+.idea/
+.vscode/
+
+# Environment variables
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
